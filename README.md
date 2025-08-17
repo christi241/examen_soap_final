@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Application Web Service SOAP : Secteurs et Classes
 
 Ce projet est une application multi-module qui implémente un Web Service basé sur le protocole SOAP (Simple Object Access Protocol). L'architecture sépare la logique métier du cœur de l'application de la couche d'exposition du service.
@@ -96,3 +97,7 @@ Chaque test a été vérifié au niveau de l'outil de test (**SoapUI**), de la c
 
 * **Requête et réponse SOAP** : 
     ![Requête et réponse XML d'une classe par secteur](https://gitlab.com/-/project/72708354/uploads/91c2aa909db227aca5a961a91a918af7481/getClassebysector.png)
+=======
+# examen_soap_final
+montre la creation d'une soap 
+>>>>>>> 61adebab9935b88283ba642199e0b7be6af46456
