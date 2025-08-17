@@ -1,0 +1,45 @@
+# Ignorer les dossiers et fichiers générés par Maven
+target/
+pom.xml.tag
+pom.xml.versionsBackup
+pom.xml.releaseBackup
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# Ignorer les fichiers de l'IDE IntelliJ IDEA
+.idea/
+.idea/modules.xml
+.idea/jarRepositories.xml
+.idea/compiler.xml
+.idea/libraries/
+.idea/vcs.xml
+*.iws
+*.iml
+*.ipr
+
+# Ignorer les fichiers d'autres IDE (si tu ne les utilises pas)
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
